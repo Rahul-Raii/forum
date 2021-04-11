@@ -13,6 +13,7 @@
   <body>
     <?php include 'partials/_header.php'; ?>
     <?php include 'partials/_footer.php'; ?>
+    <h1> No Contacts </h1>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
